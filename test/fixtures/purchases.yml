@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doc_no: 1
+  doc_date: 2017-03-03
+  sup_code: 1
+  sup_name: 1
+  supplier: one
+
+two:
+  doc_no: 1
+  doc_date: 2017-03-03
+  sup_code: 1
+  sup_name: 1
+  supplier: two

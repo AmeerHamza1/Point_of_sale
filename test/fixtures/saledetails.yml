@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  inv_no: 1
+  inv_date: 2017-03-03
+  cust_name: MyString
+  prod_name: MyString
+  sale_qty: 1
+  tp_rate: 1
+  gross_sale: 1
+  tax: 1
+  net_sale: 1
+  discount: 1
+  payable_amount: 1
+  sale: one
+
+two:
+  inv_no: 1
+  inv_date: 2017-03-03
+  cust_name: MyString
+  prod_name: MyString
+  sale_qty: 1
+  tp_rate: 1
+  gross_sale: 1
+  tax: 1
+  net_sale: 1
+  discount: 1
+  payable_amount: 1
+  sale: two

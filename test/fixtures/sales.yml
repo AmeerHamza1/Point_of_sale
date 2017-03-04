@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  inv_no: 1
+  inv_date: 2017-03-03
+  cust_code: 1
+  cust_name: MyString
+  customer: one
+
+two:
+  inv_no: 1
+  inv_date: 2017-03-03
+  cust_code: 1
+  cust_name: MyString
+  customer: two

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sup_code: 1
+  sup_name: MyString
+  sup_location: MyString
+
+two:
+  sup_code: 1
+  sup_name: MyString
+  sup_location: MyString

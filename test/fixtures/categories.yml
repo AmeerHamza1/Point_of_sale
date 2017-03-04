@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cat_code: 1
+  cat_title: MyString
+  cat_detail: MyText
+
+two:
+  cat_code: 1
+  cat_title: MyString
+  cat_detail: MyText
